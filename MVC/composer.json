@@ -1,0 +1,15 @@
+{
+    "name": "acer/mvc",
+    "autoload": {
+        "psr-4": {
+            "Acer\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Minh Tâm",
+            "email": "140230637+minhtamsad@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
